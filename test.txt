@@ -1,1 +1,1 @@
-Branch changed.
+Branch changed. Now this line will be also changed for collision.
